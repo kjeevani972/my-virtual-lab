@@ -1303,14 +1303,9 @@ if page == "🏠 Home":
 
     st.divider()
 
-    st.markdown("### 👨‍🏫 Developed by")
-    st.markdown("**Dr. C. Manivannan**")
-    st.markdown("Assistant Professor  ")
-    st.markdown("Division of Chemistry, School of Sciences  ")
-    st.markdown("Faculty of Engineering and Technology  ")
-    st.markdown("SRM Institute of Science and Technology, Tiruchirappalli")
-
-    st.info("📧 **For queries, contact:** cmanivannan89@gmail.com")
+    st.markdown("###  Developed by")
+    st.markdown("K. JEEVANI")
+    
 
 
 # ============================================================
