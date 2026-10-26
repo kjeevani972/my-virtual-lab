@@ -1,4 +1,24 @@
 import streamlit as st
+st.markdown("""
+    <style>
+    /* 1. Change main app background color */
+    .stApp {
+        background-color: #EBF8FF;
+    }
+    
+    /* 2. Change titles & headers font and color */
+    h1, h2, h3 {
+        font-family: 'Arial', sans-serif !important;
+        color: #1A365D !important;
+    }
+    
+    /* 3. Change regular text font and color */
+    p, label, span {
+        font-family: 'Georgia', serif !important;
+        color: #2D3748 !important;
+    }
+    </style>
+""", unsafe_allow_html=True)
 import pandas as pd
 import matplotlib.pyplot as plt
 from io import BytesIO
