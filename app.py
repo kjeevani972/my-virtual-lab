@@ -1220,7 +1220,7 @@ Students can learn:
 # HOME PAGE
 # ============================================================
 
-if page == "🏠 Home"
+if page == "🏠 Home":
 
     st.markdown("""
     ✅ Enter any SMILES notation
